@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushar-Bhati
 - 👀 I’m interested in creating projects using c++.
-- 🌱 I’m currently learning c++ and data structures and algorithms.
+- 🌱 I’m currently learning data structures and algorithms using c++ programming language.
 
 <!---
 Tushar-Bhati/Tushar-Bhati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
